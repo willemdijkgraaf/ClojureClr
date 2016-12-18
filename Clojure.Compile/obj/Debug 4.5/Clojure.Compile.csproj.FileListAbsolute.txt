@@ -1,0 +1,141 @@
+G:\repos\ClojureClr\Clojure.Compile\obj\Debug 4.5\Clojure.Compile.csprojResolveAssemblyReference.cache
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\core\protocols.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\core\reducers.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\core\specs.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\core_clr.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\data.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\edn.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\gvec.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\instant.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\pprint\print_table.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\reflect\clr.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\samples\ants.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\core.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\core_print.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\core_proxy.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\genclass.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\main.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\samples\attributes\testattribute.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\samples\await-test.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\samples\celsius.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\samples\deftype\testdeftype.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\samples\deftype\testprotocol.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\samples\genclass\testgenclass.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\samples\genclass\testgenclass2.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\samples\genclass\testgenclass3.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\samples\genclass\testmvc.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\samples\interop\testinterop.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\samples\proxy\testproxy.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\set.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\dm-test.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\spec.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\spec\gen.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\spec\test.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\stacktrace.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\template.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\test.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\test\junit.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\test\tap.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\uuid.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\walk.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\zip.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\core_deftype.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\clr\shell.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\reflect.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\samples\counter.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\clr\io.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\string.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\pprint.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\pprint\cl_format.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\pprint\column_writer.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\pprint\dispatch.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\pprint\pprint_base.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\pprint\pretty_writer.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\pprint\utilities.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\repl.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\samples\stm\teststm.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\clojure\core\server.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\Clojure.Compile.exe.config
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\Clojure.Compile.exe
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\Clojure.Compile.pdb
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\Clojure.dll
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\Clojure.Source.dll
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\Microsoft.Scripting.dll
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\Microsoft.Dynamic.dll
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\Microsoft.Scripting.Metadata.dll
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\Clojure.Source.pdb
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\Clojure.pdb
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\Microsoft.Scripting.xml
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\Microsoft.Dynamic.xml
+G:\repos\ClojureClr\Clojure.Compile\bin\Debug 4.5\Microsoft.Scripting.Metadata.xml
+G:\repos\ClojureClr\Clojure.Compile\obj\Debug 4.5\Clojure.Compile.exe
+G:\repos\ClojureClr\Clojure.Compile\obj\Debug 4.5\Clojure.Compile.pdb
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\core\protocols.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\core\reducers.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\core\specs.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\core_clr.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\data.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\edn.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\gvec.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\instant.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\pprint\print_table.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\reflect\clr.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\samples\ants.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\core.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\core_print.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\core_proxy.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\genclass.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\main.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\samples\attributes\testattribute.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\samples\await-test.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\samples\celsius.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\samples\deftype\testdeftype.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\samples\deftype\testprotocol.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\samples\genclass\testgenclass.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\samples\genclass\testgenclass2.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\samples\genclass\testgenclass3.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\samples\genclass\testmvc.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\samples\interop\testinterop.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\samples\proxy\testproxy.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\set.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\dm-test.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\spec.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\spec\gen.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\spec\test.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\stacktrace.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\template.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\test.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\test\junit.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\test\tap.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\uuid.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\walk.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\zip.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\core_deftype.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\clr\shell.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\reflect.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\samples\counter.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\clr\io.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\string.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\pprint.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\pprint\cl_format.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\pprint\column_writer.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\pprint\dispatch.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\pprint\pprint_base.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\pprint\pretty_writer.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\pprint\utilities.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\repl.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\samples\stm\teststm.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\clojure\core\server.clj
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\Clojure.Compile.exe.config
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\Clojure.Compile.exe
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\Clojure.Compile.pdb
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\Clojure.dll
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\Clojure.Source.dll
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\Microsoft.Scripting.dll
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\Microsoft.Dynamic.dll
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\Microsoft.Scripting.Metadata.dll
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\Clojure.Source.pdb
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\Clojure.pdb
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\Microsoft.Scripting.xml
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\Microsoft.Dynamic.xml
+G:\repos\ClojureClr\Clojure.Compile\bin\4.5\Debug\Microsoft.Scripting.Metadata.xml

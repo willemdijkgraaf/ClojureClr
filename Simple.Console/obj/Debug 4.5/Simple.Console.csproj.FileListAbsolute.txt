@@ -1,0 +1,14 @@
+G:\repos\ClojureClr\Simple.Console\bin\Debug 4.5\Simple.Console.exe.config
+G:\repos\ClojureClr\Simple.Console\bin\Debug 4.5\Simple.Console.exe
+G:\repos\ClojureClr\Simple.Console\bin\Debug 4.5\Simple.Console.pdb
+G:\repos\ClojureClr\Simple.Console\bin\Debug 4.5\Clojure.dll
+G:\repos\ClojureClr\Simple.Console\bin\Debug 4.5\Microsoft.Scripting.dll
+G:\repos\ClojureClr\Simple.Console\bin\Debug 4.5\Microsoft.Dynamic.dll
+G:\repos\ClojureClr\Simple.Console\bin\Debug 4.5\Microsoft.Scripting.Metadata.dll
+G:\repos\ClojureClr\Simple.Console\bin\Debug 4.5\Clojure.pdb
+G:\repos\ClojureClr\Simple.Console\bin\Debug 4.5\Microsoft.Scripting.xml
+G:\repos\ClojureClr\Simple.Console\bin\Debug 4.5\Microsoft.Dynamic.xml
+G:\repos\ClojureClr\Simple.Console\bin\Debug 4.5\Microsoft.Scripting.Metadata.xml
+G:\repos\ClojureClr\Simple.Console\obj\Debug 4.5\Simple.Console.csprojResolveAssemblyReference.cache
+G:\repos\ClojureClr\Simple.Console\obj\Debug 4.5\Simple.Console.exe
+G:\repos\ClojureClr\Simple.Console\obj\Debug 4.5\Simple.Console.pdb
