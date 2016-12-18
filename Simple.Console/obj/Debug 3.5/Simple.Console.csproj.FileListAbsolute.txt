@@ -1,0 +1,5 @@
+G:\repos\ClojureClr\bin\3.5\Debug\Simple.Console.exe
+G:\repos\ClojureClr\bin\3.5\Debug\Simple.Console.pdb
+G:\repos\ClojureClr\Clojure\Simple.Console\obj\Debug 3.5\Simple.Console.csprojResolveAssemblyReference.cache
+G:\repos\ClojureClr\Clojure\Simple.Console\obj\Debug 3.5\Simple.Console.exe
+G:\repos\ClojureClr\Clojure\Simple.Console\obj\Debug 3.5\Simple.Console.pdb

@@ -1,0 +1,5 @@
+G:\repos\ClojureClr\Clojure\BuildTasks\bin\Debug\BuildTasks.dll
+G:\repos\ClojureClr\Clojure\BuildTasks\bin\Debug\BuildTasks.pdb
+G:\repos\ClojureClr\Clojure\BuildTasks\obj\Debug\BuildTasks.csprojResolveAssemblyReference.cache
+G:\repos\ClojureClr\Clojure\BuildTasks\obj\Debug\BuildTasks.dll
+G:\repos\ClojureClr\Clojure\BuildTasks\obj\Debug\BuildTasks.pdb

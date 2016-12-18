@@ -1,0 +1,15 @@
+G:\repos\ClojureClr\Clojure\Csharp.Tests\bin\Debug 3.5\Csharp.Tests.dll
+G:\repos\ClojureClr\Clojure\Csharp.Tests\bin\Debug 3.5\Csharp.Tests.pdb
+G:\repos\ClojureClr\Clojure\Csharp.Tests\bin\Debug 3.5\Clojure.dll
+G:\repos\ClojureClr\Clojure\Csharp.Tests\bin\Debug 3.5\Microsoft.Scripting.Core.dll
+G:\repos\ClojureClr\Clojure\Csharp.Tests\bin\Debug 3.5\nunit.framework.dll
+G:\repos\ClojureClr\Clojure\Csharp.Tests\bin\Debug 3.5\Microsoft.Scripting.dll
+G:\repos\ClojureClr\Clojure\Csharp.Tests\bin\Debug 3.5\Microsoft.Dynamic.dll
+G:\repos\ClojureClr\Clojure\Csharp.Tests\bin\Debug 3.5\Clojure.pdb
+G:\repos\ClojureClr\Clojure\Csharp.Tests\bin\Debug 3.5\Microsoft.Scripting.Core.xml
+G:\repos\ClojureClr\Clojure\Csharp.Tests\bin\Debug 3.5\nunit.framework.xml
+G:\repos\ClojureClr\Clojure\Csharp.Tests\bin\Debug 3.5\Microsoft.Scripting.xml
+G:\repos\ClojureClr\Clojure\Csharp.Tests\bin\Debug 3.5\Microsoft.Dynamic.xml
+G:\repos\ClojureClr\Clojure\Csharp.Tests\obj\Debug 3.5\Csharp.Tests.csprojResolveAssemblyReference.cache
+G:\repos\ClojureClr\Clojure\Csharp.Tests\obj\Debug 3.5\Csharp.Tests.dll
+G:\repos\ClojureClr\Clojure\Csharp.Tests\obj\Debug 3.5\Csharp.Tests.pdb

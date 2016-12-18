@@ -1,0 +1,8 @@
+G:\repos\ClojureClr\bin\3.5\Debug\Clojure.dll.config
+G:\repos\ClojureClr\bin\3.5\Debug\Clojure.dll
+G:\repos\ClojureClr\bin\3.5\Debug\Clojure.pdb
+G:\repos\ClojureClr\Clojure\Clojure\obj\Debug 3.5\Clojure.csprojResolveAssemblyReference.cache
+G:\repos\ClojureClr\Clojure\Clojure\obj\Debug 3.5\clojure.lang.Properties.Resources.resources
+G:\repos\ClojureClr\Clojure\Clojure\obj\Debug 3.5\Clojure.csproj.GenerateResource.Cache
+G:\repos\ClojureClr\Clojure\Clojure\obj\Debug 3.5\Clojure.dll
+G:\repos\ClojureClr\Clojure\Clojure\obj\Debug 3.5\Clojure.pdb
